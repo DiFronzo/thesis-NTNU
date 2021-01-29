@@ -1,6 +1,6 @@
 %% ntnuthesis.cls - a LaTeX class for theses at NTNU
 %%
-%% CC-BY CoPCSE@NTNU, 2019
+%% CC-BY CoPCSE@NTNU, 2021
 %%
 %% Partly merged, partly based on, and partly a simplification of
 %% various previous thesis templates by Simon McCallum, Ivar Farup,
@@ -8,11 +8,11 @@
 
 %% IDENTIFICATION
 
-\xdef\ntnuthesisdate{2019/07/18}
+\xdef\ntnuthesisdate{2021/05/20}
 \NeedsTeXFormat{LaTeX2e}
 \ProvidesClass{ntnuthesis}
  [\ntnuthesisdate\space
-   CC-BY CoPCSE at NTNU 2019]
+   CC-BY CoPCSE at NTNU 2021]
 
 
 %% CLASS OPTIONS
